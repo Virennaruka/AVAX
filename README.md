@@ -22,7 +22,7 @@ Crawling multiple wallets is no different.
 ```
 python3 orbit.py -s 1AJbsFZ64EpEfS5UAjAfcUG8pH8Jn3rn1F,1ETBbsHPvbydW7hGWXXKXZ3pxVh3VFoMaX
 ```
-Orbit fetches last 50 transactions from each wallet by default, but it can be tuned with `-l` option.
+AVAX fetches last 50 transactions from each wallet by default, but it can be tuned with `-l` option.
 ```
 python3 orbit.py -s 1AJbsFZ64EpEfS5UAjAfcUG8pH8Jn3rn1F -l 100
 ```
